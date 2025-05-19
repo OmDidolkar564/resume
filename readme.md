@@ -5,10 +5,7 @@ Welcome! This repository contains my **latest professional resume**. Feel free t
 ## 🔗 Quick Links
 
 - 📥 [Download Resume (PDF)](./resume.pdf)
-- 🌐 [View Resume on GitHub](https://OmDidolkar.github.io/resume/resume.pdf)
-- 💼 [Visit My Portfolio Website](https://gunjankumar55.github.io/Gunjan_Portfolio/)
-
-## 🚀 About Me
+- 🌐 [View Resume on GitHub]([https://OmDidolkar.github.io/resume/resume.pdf])
 
 Hi, I’m **[Om Didolkar]** — a passionate developer focused on building modern, scalable applications with clean design and performance in mind. I'm constantly learning and love contributing to impactful projects.
 
