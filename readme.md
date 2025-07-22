@@ -11,6 +11,6 @@ Hi, I’m **[Om Didolkar]** — a passionate developer focused on building moder
 
 ### 🧰 Tech Stack
 ```bash
-Languages: Python, JavaScript, C, Java  
+Languages: Python, C 
 Frameworks:  React, Node.js  
 Tools: Git, jenkins, Docker
