@@ -13,4 +13,4 @@ Hi, I’m **[Om Didolkar]** — a passionate developer focused on building moder
 ```bash
 Languages: Python, C , HTML/CSS
 Frameworks: Bootstrap, Tailwind CSS , Flask 
-Tools: Git, jenkins, Docker , SQL
+Tools: Alteryx Designer, Git, SQL, PowerBi, Jenkins, Docker ,
